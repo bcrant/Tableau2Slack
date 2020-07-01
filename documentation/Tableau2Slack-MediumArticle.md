@@ -1,5 +1,5 @@
 
-![img](NinaKravisualization.png =600x400)
+![img](NinaKravisualization.png)
 
 # **Sharing Data Visualizations to Slack with Python**
 
