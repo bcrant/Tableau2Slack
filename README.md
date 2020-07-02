@@ -1,5 +1,7 @@
 # **Tableau2Slack**
-Tableau2Slack is a Python 3.7 script that utilizes the Tableau Server Client Python library to open a specific view on a Tableau Server (including a Tableau Online server), downloads an image of that view to disk, triggers a Slack Bot to post the image to a specific channel in a Slack workspace, then removes the image from disk.
+Tableau2Slack is a Python 3.7 script that utilizes the Tableau Server Client Python library to open a specific view on a Tableau Server (including a Tableau Online server), downloads an image of that view to disk, triggers a Slack Bot to post the image to a specific channel in a Slack workspace, then removes the image from disk.  
+
+To learn more about this script and see it in action [check out the Medium article.](https://github.com/bcrant/Tableau2Slack/blob/master/documentation/Tableau2Slack-MediumArticle.md)  
 
 ## Contents  
 [Tableau2Slack.py](https://github.com/bcrant/Tableau2Slack/blob/master/Tableau2Slack.py)  
@@ -12,7 +14,6 @@ README.md
 3-cronexample.md  
 
 ## Documentation  
-For more information about how to customize this script for your workflow [check out the Medium article.](https://github.com/bcrant/Tableau2Slack/blob/master/documentation/Tableau2Slack-MediumArticle.md)  
 1. **[Getting Started](https://github.com/bcrant/Tableau2Slack/blob/master/documentation/1-gettingstarted.md)**  
 2. **[Virtual Environment Tutorial](https://github.com/bcrant/Tableau2Slack/blob/master/documentation/2-virtualenvexample.md)**  
 &emsp;&emsp;I. &emsp; Intro  
