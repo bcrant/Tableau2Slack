@@ -25,7 +25,9 @@ For more information about how to customize this script for your workflow [check
 &emsp;&emsp;III.&emsp;Installation
 
 ## Contributing  
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.  
+
+Would love to create adaptations for other data visualization tools like Looker, Domo, and Power BI in the future.  
 
 ## License  
 [MIT](https://choosealicense.com/licenses/mit/)
