@@ -198,7 +198,7 @@ If the command is accepted, you will receive the output: "crontab: installing ne
 
 To check what `crontab` jobs you have installed on your machine, you can run `$ crontab -l`.
 
-
+That's it! Feel free to reach out if you have any questions.
 
 ---
 Tags:

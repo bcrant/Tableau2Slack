@@ -12,7 +12,7 @@ README.md
 3-cronexample.md  
 
 ## Documentation  
-For more information about how to customize this script for your workflow, check out the Medium article: link2mediumarticle.com  
+For more information about how to customize this script for your workflow [check out the Medium article.](https://github.com/bcrant/Tableau2Slack/blob/master/documentation/Tableau2Slack-MediumArticle.md)  
 1. **[Getting Started](https://github.com/bcrant/Tableau2Slack/blob/master/documentation/1-gettingstarted.md)**  
 2. **[Virtual Environment Tutorial](https://github.com/bcrant/Tableau2Slack/blob/master/documentation/2-virtualenvexample.md)**  
 &emsp;&emsp;I. &emsp; Intro  
