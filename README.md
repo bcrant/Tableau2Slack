@@ -13,13 +13,13 @@ README.md
 
 ## Documentation  
 For more information about how to customize this script for your workflow, check out the Medium article: link2mediumarticle.com  
-1. **[Getting Started](https://github.com/bcrant/Tableau2Slack/blob/master/documentation/1-gettingstarted.md)**
-2. **[Virtual Environment Tutorial](https://github.com/bcrant/Tableau2Slack/blob/master/documentation/2-virtualenvexample.md)**
+1. **[Getting Started](https://github.com/bcrant/Tableau2Slack/blob/master/documentation/1-gettingstarted.md)**  
+2. **[Virtual Environment Tutorial](https://github.com/bcrant/Tableau2Slack/blob/master/documentation/2-virtualenvexample.md)**  
 &emsp;&emsp;I. &emsp; Intro  
 &emsp;&emsp;II.&emsp; `virtualenv` Installation  
 &emsp;&emsp;III.&emsp;`virtualenv` Set Up  
 &emsp;&emsp;IV.&emsp; Environment Variables Example
-3. **[Cron Tutorial](https://github.com/bcrant/Tableau2Slack/blob/master/documentation/3-cronexample.md)**
+3. **[Cron Tutorial](https://github.com/bcrant/Tableau2Slack/blob/master/documentation/3-cronexample.md)**  
 &emsp;&emsp;I. &emsp; Intro  
 &emsp;&emsp;II.&emsp; Under the Hood  
 &emsp;&emsp;III.&emsp;Installation
