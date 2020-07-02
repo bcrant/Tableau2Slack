@@ -37,11 +37,7 @@ Unable to rely on age-old tactics like "impromptu meetings", and "sliding my cha
 Although a native Tableau <> Slack integration does not currently exist, both companies offer robust, well documented APIs that make their super powers accessible to people like you and me. So, naturally, I enlisted the help one of my favorite DJs, [Nina Kravis](https://www.youtube.com/watch?v=oFvqo1dil7M), and started building a solution that would allow me to try a new approach:
 
 ### Instead of bringing my colleagues to the dashboards... What if I bring the dashboards to my colleagues?
-\
-![img](NinaInAction.png)  
-  \
-  \
-  \
+
 In this article I will introduce **Tableau2Slack**, a Python 3.7 script that utilizes the Tableau Server Client Python library and Slack Developer Kit for Python to:  
 
 • open a specific view on a Tableau Server (including a Tableau Online server)  
@@ -52,7 +48,7 @@ In this article I will introduce **Tableau2Slack**, a Python 3.7 script that uti
 
 I will then proceed to explain how you can schedule the script to run from your machine -- all without bugging your favorite engineer.
 
-----
+![img](NinaInAction.png)  
 
 ## 1. Getting Started
 
@@ -89,8 +85,6 @@ You will need some admin permissions for the steps below.
 6. Create a #tableau-test channel in your Slack account to store the image.
 
 Now that you have defined all of your variables in your `.env` file, head to `virtualenvexample.md` to learn how to create an isolated environment for the script to run.
-
-----
 
 ## 2. Virtual Environment Example
 
@@ -147,8 +141,6 @@ In your terminal, with the virtual environment activated and `requirements.txt` 
 `cd /{project_path}/tab2slack/venv/lib/python3.7/site-packages && pip install -r /{project_path}/tab2slack/requirements.txt -t .`
 
 You can run `pip list` to double check that all the requirements are installed. Almost there! Head over to `cronexample.md` to schedule this script to run on your machine.
-
-----
 
 ## 3. Cron Example
 

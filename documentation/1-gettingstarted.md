@@ -1,4 +1,4 @@
-## 1. Getting Started ##
+## 1. Getting Started  
 
 All you will need is a connection to the internet, a Slack account, and a Tableau account. This script requires you to create and install a Slack Bot to your Slack workspace.
 
@@ -6,7 +6,7 @@ If you are familiar with hiding API keys and passwords by using environment vari
 
 For those of you with limited to no experience with Python, APIs, or automation, the `virtualenvexample.md` and `cronexample.md` documents in this repository are geared towards you and will guide you through setting up and deploying this script using only your Mac OS or Linux machine.
 
-### Gather Tableau Credentials ###
+### Gather Tableau Credentials  
 Get your Tableau Online or Server information ready. You can add this to the `.env` as you go or store elsewhere, but keep these handy.
 
 __You will need:__  
@@ -17,7 +17,7 @@ Tableau Site Name (is probably `yourcompanyname`)
 Tableau View Name  
 Filename for Image
 
-### Configure Slack ###
+### Configure Slack  
 You will need some admin permissions for the steps below.
 
 1. Create a new [Slack App](https://api.slack.com/apps) for your workspace configured for `Bots` and `Permissions`.

@@ -12,7 +12,7 @@ We are going to use a Python package called `virtualenv` to create an isolated P
 
 After we create the virtualenv, we will use a built-in Mac OS utility called `cron` to schedule the script to run in the virtual environment we have built at a frequency of our choosing. Cron is a powerful tool with minimal overhead and it will take you two minutes to learn -- more on that later.
 
-## `virtualenv` Installation ##
+## `virtualenv` Installation
 Start by installing `virtualenv` to your global Python install. I will be demonstrating using Python3.7, if you use a different version some things may not hold true so be sure to adjust accordingly.
 
 Install command: `pip install virtualenv`
@@ -31,7 +31,7 @@ $ which python3.7
 /usr/local/bin/python3.7
 ```
 
-## `virtualenv` Set Up ##
+## `virtualenv` Set Up  
 Time to create the environment. You can reference the [virtualenv documentation](https://virtualenv.pypa.io/en/stable/user_guide.html) for greater detail but here's the quick start. Be sure to change out the filepath for your python3.7 installation that we just grabbed above:
 
 `virtualenv -p /usr/local/bin/python3.7 venv`
@@ -47,7 +47,7 @@ The name of the virtual environment should now appear to the left in your termin
 
 Next we need to install the packages required for this project. Download the `requirements.txt` from the Tableau2Slack repository on Github and put it in your local `tab2slack` project folder. While you're there download `Tableau2Slack.py` and do the same.
 
-## Environment Variables ##
+## Environment Variables  
 I use the package `dotenv` to manage environment variables. This is where you hide your API keys ect by creating a `.env` file in the project folder to store the key pairs. They remain private by adding that file to your `.gitignore`.  
 
 All of the Tableau Server Client samples use `argparse`, which I'm sure is similar, but I am just a little data boi and that was slowing me down so I stuck with what I am familiar with, and replaced the variables to be called from `dotenv`.  
