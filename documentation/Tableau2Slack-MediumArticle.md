@@ -16,7 +16,7 @@ A step-by-step tutorial on sharing Tableau Dashboards to your Slack Workspace (f
 
 # Importance of Availability
 
-Let's face it data viz professionals: *no one is ever going to be as excited about your graphs as you are.*
+Let's face it data analysts and business intelligence professionals: *no one is ever going to be as excited about your graphs as you are.*
 
 People are busy, and just like you, have their own priorities to manage. Even though you  may be working towards a common goal, how your data visualizations fit into reaching that goal may not be immediately clear or seen as a priority for the end users: your colleagues.
 
