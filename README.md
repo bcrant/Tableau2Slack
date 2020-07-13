@@ -39,4 +39,4 @@ Main authors:
 
 Special thanks to [Dylan Yile Wu](https://www.linkedin.com/in/yilewu/) for the inspiration. Even if it not used directly, [his work](https://github.com/DylanYileWu/slack_tableau_dashboard/blob/master/slack_tableau_dashboard.py) with the Tableau REST API heavily influenced the functionality of this project.
 
-Many thanks to [John McDonald](https://www.linkedin.com/in/john-mcdonald-dev), [Keshia Rose](https://www.linkedin.com/in/keshia-rose/), and [Mike Potts](https://www.linkedin.com/in/michael-potts-2a697395/) for giving freely of their time and expertise to review drafts of the super duper scintillating documentation in this repository for public consumption. Not all heroes wear capes.
+Many thanks to [John McDonald](https://www.linkedin.com/in/john-mcdonald-dev) for giving freely of his time and expertise to review drafts of the super duper scintillating documentation in this repository for public consumption. Not all heroes wear capes.

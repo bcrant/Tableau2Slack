@@ -200,6 +200,8 @@ To check what `crontab` jobs you have installed on your machine, you can run `$ 
 
 That's it! Feel free to reach out if you have any questions.
 
+Thanks to Keshia Rose, Clay Wilkerson, and Mike Potts for reviewing drafts of this article, and thanks especially to John McDonald for help with the documentation.
+
 ---
 Tags:
 
