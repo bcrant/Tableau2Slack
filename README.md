@@ -1,7 +1,13 @@
 # **Tableau2Slack**
-Tableau2Slack is a Python 3.7 script that utilizes the Tableau Server Client Python library to open a specific view on a Tableau Server (including a Tableau Online server), downloads an image of that view to disk, triggers a Slack Bot to post the image to a specific channel in a Slack workspace, then removes the image from disk.  
+[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)  
 
-To learn more about this script and see it in action [check out the Medium article.](https://github.com/bcrant/Tableau2Slack/blob/master/documentation/Tableau2Slack-MediumArticle.md)  
+
+Tableau2Slack is a Python 3.7 script that utilizes the Tableau Server Client Python library to open a specific view on a Tableau Server (including a Tableau Online server), downloads an image of that view to disk, triggers a Slack Bot to post the image to a specific channel in a Slack workspace, then removes the image from disk.
+
+To learn more about this script [check out the Medium article.](https://github.com/bcrant/Tableau2Slack/blob/master/documentation/Tableau2Slack-MediumArticle.md)  
+
+<img src="/documentation/NinaInAction.png" width=450px>
+
 
 ## Contents  
 [Tableau2Slack.py](https://github.com/bcrant/Tableau2Slack/blob/master/Tableau2Slack.py)  
@@ -31,7 +37,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Would love to create adaptations for other data visualization tools like Looker, Domo, and Power BI in the future.  
 
 ## License  
-[MIT](https://choosealicense.com/licenses/mit/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)  
 
 ## Authors
 Main authors:  

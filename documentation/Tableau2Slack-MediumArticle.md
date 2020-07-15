@@ -34,7 +34,7 @@ Unable to rely on age-old tactics like "impromptu meetings", and "sliding my cha
 
 # Tableau2Slack.py
 
-Although a native Tableau <> Slack integration does not currently exist, both companies offer robust, well documented APIs that make their super powers accessible to people like you and me. So, naturally, I enlisted the help one of my favorite DJs, [Nina Kravis](https://www.youtube.com/watch?v=oFvqo1dil7M), and started building a solution that would allow me to try a new approach:
+Although a native Tableau <> Slack integration does not currently exist, both companies offer robust, well documented APIs that make their super powers accessible to people like you and me. So, naturally, I enlisted the help one of my favorite DJs, [Nina Kraviz](https://www.youtube.com/watch?v=oFvqo1dil7M), and started building a solution that would allow me to try a new approach:
 
 ### Instead of bringing my colleagues to the dashboards... What if I bring the dashboards to my colleagues?
 
@@ -50,9 +50,9 @@ I will then proceed to explain how you can schedule the script to run from your 
 
 ![img](NinaInAction.png)  
 
-You can get creative and use whomever you'd like to be your deliver-er of data. Maybe it's Nina Kravis, maybe it's [Snoop Dogg](https://www.bryantgillespie.com/tagging-conversations-snoop-dogg-intercom). Take full advantage of the opportunity to bring a little joy to your data project. When the numbers aren't trending up and to the right, you can use all the help you can get. Who makes everyone smile in your office?  
+You can get creative and use whomever you'd like to be your deliver-er of data. Maybe it's Nina Kraviz, maybe it's [Snoop Dogg](https://www.bryantgillespie.com/tagging-conversations-snoop-dogg-intercom). Take full advantage of the opportunity to bring a little joy to your data project. When the numbers aren't trending up and to the right, you can use all the help you can get. Who makes everyone smile in your office?  
 
-As luck would have it, my colleagues have great taste in music and share in my enthusiasm for Nina Kravis. A few years ago I saw her perform in New Orleans along the Mississippi River, outside of the warehouse used to store all of the Mardi Gras floats, and it was one of only a handful of moments in life that was truly perfect.
+As luck would have it, my colleagues at [Gigwell](https://www.gigwell.com) have great taste in music and share in my enthusiasm for Nina Kraviz. A few years ago I saw her perform in New Orleans along the Mississippi River, outside of the warehouse used to store all of the Mardi Gras floats, and it was one of only a handful of moments in life that was truly perfect.
 
 Anyway, I'm sure you have someone in mind. Feel free to reach out if you need help customizing this for your needs. Let's begin.
 
