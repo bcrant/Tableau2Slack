@@ -50,6 +50,12 @@ I will then proceed to explain how you can schedule the script to run from your 
 
 ![img](NinaInAction.png)  
 
+You can get creative and use whomever you'd like to be your deliver-er of data. Maybe it's Nina Kravis, maybe it's [Snoop Dogg](https://www.bryantgillespie.com/tagging-conversations-snoop-dogg-intercom). Take full advantage of the opportunity to bring a little joy to your data project. When the numbers aren't trending up and to the right, you can use all the help you can get. Who makes everyone smile in your office?  
+
+As luck would have it, my colleagues have great taste in music and share in my enthusiasm for Nina Kravis. A few years ago I saw her perform in New Orleans along the Mississippi River, outside of the warehouse used to store all of the Mardi Gras floats, and it was one of only a handful of moments in life that was truly perfect.
+
+Anyway, I'm sure you have someone in mind. Feel free to reach out if you need help customizing this for your needs. Let's begin.
+
 ## 1. Getting Started
 
 All you will need is a connection to the internet, a Slack account, and a Tableau account. This script requires you to create and install a Slack Bot to your Slack workspace.
