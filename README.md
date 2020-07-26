@@ -8,6 +8,7 @@ This repository includes detailed documentation and a beginner friendly step-by-
 
 <img src="/documentation/NinaInAction.png" width=500px>  
 <br/>
+
 _To learn more about this project check out [the Medium article.](https://medium.com/@briancrant/sharing-data-visualizations-to-slack-with-python-b6404eb5a535?source=friends_link&sk=dad9ab8fa333cd79302ed9705145f8be)_
 
 ## Contents  
@@ -36,7 +37,7 @@ README.md
 1. Clone the Tableau2Slack repository
 2. Create and install a Slack bot to your Slack workspace as outlined in [Getting Started](https://github.com/bcrant/Tableau2Slack/blob/master/documentation/1-gettingstarted.md)
 3. Replace the example variables in the `.env` file (pictured below) with your corresponding Tableau and Slack account information
-<br/><img src="/documentation/QuickStart.png" width=300px>  
+<br/><img src="/documentation/QuickStart.png" width=350px>  
 4. (Optional) Edit the JSON message body in Tableau2Slack.py to customize the Slack message and username/icon.
 
 ## Contributing  
