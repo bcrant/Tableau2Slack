@@ -4,10 +4,9 @@
 
 As a data lover in a meme world, it can be challenging to command the attention of peers with things like sales updates, forecasts, and projections. I built Tableau2Slack to make our data visualizations more easily accessible to my colleagues; by sharing updates to them directly in Slack. Now you can too!
 
-This repository includes detailed documentation and a beginner friendly step-by-step tutorial on how to deploy this script and automate sharing updates to Slack. I am happy to help if you have any problems getting started and am always open to feedback, collaboration, and additional contributions.
-
 <img src="/documentation/NinaInAction.png" width=500px>  
-<br/>
+
+This repository includes detailed documentation and a beginner friendly step-by-step tutorial on how to deploy this script and automate sharing updates to Slack. I am happy to help if you have any problems getting started and am always open to feedback, collaboration, and additional contributions.
 
 _To learn more about this project check out [the Medium article.](https://medium.com/@briancrant/sharing-data-visualizations-to-slack-with-python-b6404eb5a535?source=friends_link&sk=dad9ab8fa333cd79302ed9705145f8be)_
 
