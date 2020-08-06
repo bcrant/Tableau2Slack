@@ -1,5 +1,5 @@
 # **Tableau2Slack**
-![img](https://badges.frapsoft.com/os/v1/open-source.svg?v=103) ![img](https://img.shields.io/badge/Free%3F-✅-534.svg) ![img](https://img.shields.io/badge/Maintained%3F-✅-534.svg) ![img](https://img.shields.io/badge/Stable%3F-✅-534.svg) ![img](https://img.shields.io/badge/Beginner%20Friendly%3F-✅-534.svg)
+![img](https://img.shields.io/badge/Free%3F-✅-534.svg) ![img](https://img.shields.io/badge/Maintained%3F-✅-534.svg) ![img](https://img.shields.io/badge/Stable%3F-✅-534.svg) ![img](https://img.shields.io/badge/Beginner%20Friendly%3F-✅-534.svg)
 ![img](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) ![img](https://img.shields.io/badge/style-API-E97627?label=Tableau&logo=Tableau) ![img](https://img.shields.io/badge/style-API-4A154B?label=Slack&logo=Slack)
 
 As a data lover in a meme world, it can be challenging to command the attention of peers with things like sales updates, forecasts, and projections. I built Tableau2Slack to make business intelligence dashboards and data visualizations more easily accessible to my colleagues; by sharing updates to them directly in Slack. Now you can too!
