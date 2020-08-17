@@ -63,14 +63,14 @@ def Tableau2Slack():
             # for further explanation of Slack environment variables visit:
             # https://slack.dev/python-slackclient/
 
-            # Preparing date to format filename and caption
+            # Preparing date to format filename and caption. Change "Sales Analytics" ect. to whatever you like.
             date = datetime.utcnow().strftime('%Y-%m-%d')
             utc_dt = datetime.now(timezone.utc)
-            PST = pytz.timezone('US/Pacific')
-            imagetitle = 'SalesUpdate_{}'.format(utc_dt.astimezone(PST).strftime('%Y-%m-%d_%I:%M%p_PST'))
-            caption = 'Sales Update as of {}'.format(utc_dt.astimezone(PST).strftime('%Y-%m-%d %I:%M%p PST'))
+            your_tz = pytz.timezone('US/Pacific') # Replace with your timezone to localize
+            imagetitle = 'SalesUpdate_{}'.format(utc_dt.astimezone(your_tz).strftime('%Y-%m-%d_%I:%M%p_%Z'))
+            caption = 'Sales Update as of {}'.format(utc_dt.astimezone(your_tz).strftime('%Y-%m-%d %I:%M%p %Z'))
             captionA = 'Sales Analytics Update'
-            captionB = ' as of {}'.format(utc_dt.astimezone(PST).strftime('%Y-%m-%d %I:%M%p PST'))
+            captionB = ' as of {}'.format(utc_dt.astimezone(your_tz).strftime('%Y-%m-%d %I:%M%p %Z'))
             captionC  =  ('\n\n*'+captionA+'*'+captionB)
 
             # Connect to Slack
@@ -106,7 +106,7 @@ def Tableau2Slack():
                      "elements": [
                         {
                           "type": "mrkdwn",
-                          "text": "Want to see more? <https://www.tableau.com/|Insert Your Link to All Dashboards Here>"
+                          "text": "Want to see more? <https://www.tableau.com/ Insert Your Link to All Dashboards Here>"
                         }
                       ]
                 },
