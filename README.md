@@ -4,7 +4,7 @@
 
 As a data lover in a meme world, it can be challenging to command the attention of peers with things like sales updates, forecasts, and projections. I built Tableau2Slack to make business intelligence dashboards and data visualizations more easily accessible to my colleagues; by sharing updates to them directly in Slack. Now you can too!
 
-<img src="./documentation/Tableau2Slack.png" width=500px>
+<img src="./documentation/Tableau2Slack.png" width=700px>
 <br><br>
 
 This repository includes detailed documentation and a beginner friendly step-by-step tutorial on how to deploy this script and automate sharing updates to Slack. I am happy to help if you have any problems getting started and am always open to feedback, collaboration, and additional contributions.
