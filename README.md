@@ -4,7 +4,8 @@
 
 As a data lover in a meme world, it can be challenging to command the attention of peers with things like sales updates, forecasts, and projections. I built Tableau2Slack to make business intelligence dashboards and data visualizations more easily accessible to my colleagues; by sharing updates to them directly in Slack. Now you can too!
 
-<img src="/documentation/NinaInAction.png" width=500px>  
+<img src="./documentation/Tableau2Slack.png" width=500px>
+<br><br>
 
 This repository includes detailed documentation and a beginner friendly step-by-step tutorial on how to deploy this script and automate sharing updates to Slack. I am happy to help if you have any problems getting started and am always open to feedback, collaboration, and additional contributions.
 
@@ -36,7 +37,7 @@ README.md
 1. Clone the Tableau2Slack repository
 2. Create and install a Slack bot to your Slack workspace as outlined in [Getting Started](https://github.com/bcrant/Tableau2Slack/blob/master/documentation/1-gettingstarted.md)
 3. Replace the example variables in the `.env` file (pictured below) with your corresponding Tableau and Slack account information
-<br/><img src="/documentation/QuickStart.png" width=350px>  
+<br/><img src="./documentation/QuickStart.png" width=350px>  
 4. (Optional) Edit the JSON message body in Tableau2Slack.py to customize the Slack message and username/icon.
 
 ## Contributing  
