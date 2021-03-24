@@ -138,8 +138,6 @@ Next we need to install the packages required for this project. Download the `re
 ### Environment Variables
 I use the package `dotenv` to manage environment variables. This is where you hide your API keys ect by creating a `.env` file in the project folder to store the key pairs. They remain private by adding that file to your `.gitignore`.  
 
-All of the Tableau Server Client samples use `argparse`, which I'm sure is similar, but I am just a little data boi and that was slowing me down so I stuck with what I am familiar with, and replaced the variables to be called from `dotenv`.  
-
 There are explanations and examples of these key pair values inline in the `Tableau2Slack.py` script and I have included a sample `.env` for you in repository with the variable names. You just need to add your own keys. If the file is not visible when you make or download it, on a Mac hit Command + Shift + . to show hidden files in your directories. /sidenote  
 
 In your terminal, with the virtual environment activated and `requirements.txt` in your project folder, we will hop into the `site-packages` directory and install all of the package dependencies there:
