@@ -1,6 +1,6 @@
 #### Requirements for Tableau2Slack.py ####
 
-requests == 2.22.0
+requests == 2.31.0
 pytz == 2019.3
 python-dotenv == 0.12.0
 tableauserverclient == 0.11
